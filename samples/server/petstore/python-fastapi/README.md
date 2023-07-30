@@ -34,5 +34,6 @@ To run the tests:
 
 ```bash
 pip3 install pytest
-PYTHONPATH=src pytest tests
+PYTHONPATH=src
+pytest tests
 ```
